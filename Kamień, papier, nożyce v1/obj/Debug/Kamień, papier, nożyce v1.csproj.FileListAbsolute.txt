@@ -1,0 +1,12 @@
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.exe.config
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.pdb
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.csprojResolveAssemblyReference.cache
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.pdb
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.exe.config
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.exe
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\bin\Debug\Kamień, papier, nożyce v1.pdb
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.csprojResolveAssemblyReference.cache
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.exe
+C:\Users\dravi\Documents\Visual Studio 2017\Projects\DODATKOWE ZADANIA\Kamień, papier, nożyce v1\Kamień, papier, nożyce v1\obj\Debug\Kamień, papier, nożyce v1.pdb
