@@ -55,6 +55,7 @@ namespace Kamień__papier__nożyce_v1
                 Console.WriteLine("Przegrałeś.");
                 przegrana++;
             }
+<<<<<<< HEAD
 
             if (wybor == 1 && liczbaPrzeciwnika == 3)
             {
@@ -64,6 +65,43 @@ namespace Kamień__papier__nożyce_v1
                 wygrana++;
             }
 
+            if (wybor == 2 && liczbaPrzeciwnika == 1)
+            {
+                Console.WriteLine("Pokazałeś papier");
+                Console.WriteLine("Przeciwnik pokazał kamień");
+=======
+
+            if (wybor == 1 && liczbaPrzeciwnika == 3)
+            {
+                Console.WriteLine("Pokazałeś kamień");
+                Console.WriteLine("Przeciwnik pokazał nożyce");
+>>>>>>> 5e3870ddb78332870b1d6362ad6bcb9624293763
+                Console.WriteLine("Wygrałeś!");
+                wygrana++;
+            }
+
+<<<<<<< HEAD
+            if (wybor == 2 && liczbaPrzeciwnika == 2)
+            {
+                Console.WriteLine("Pokazałeś papier");
+                Console.WriteLine("Przeciwnik pokazał papier");
+                Console.WriteLine("Remis!");
+                remis++;
+            }
+
+            if (wybor == 2 && liczbaPrzeciwnika == 3)
+            {
+                Console.WriteLine("Pokazałeś papier");
+                Console.WriteLine("Przeciwnik pokazał nożyce");
+                Console.WriteLine("Przegrałeś.");
+                przegrana++;
+            }
+
+            if (wybor == 3 && liczbaPrzeciwnika == 1)
+            {
+                Console.WriteLine("Pokazałeś nożyce");
+                Console.WriteLine("Przeciwnik pokazał kamień");
+=======
             if (wybor == 2 && liczbaPrzeciwnika == 1)
             {
                 Console.WriteLine("Pokazałeś papier");
@@ -84,10 +122,28 @@ namespace Kamień__papier__nożyce_v1
             {
                 Console.WriteLine("Pokazałeś papier");
                 Console.WriteLine("Przeciwnik pokazał nożyce");
+>>>>>>> 5e3870ddb78332870b1d6362ad6bcb9624293763
                 Console.WriteLine("Przegrałeś.");
                 przegrana++;
             }
 
+<<<<<<< HEAD
+            if (wybor == 3 && liczbaPrzeciwnika == 2)
+            {
+                Console.WriteLine("Pokazałeś nożyce");
+                Console.WriteLine("Przeciwnik pokazał papier");
+                Console.WriteLine("Wygrałeś!");
+                wygrana++;
+            }
+
+            if (wybor == 3 && liczbaPrzeciwnika == 3)
+            {
+                Console.WriteLine("Pokazałeś nożyce");
+                Console.WriteLine("Przeciwnik pokazał nożyce");
+                Console.WriteLine("Remis!");
+                remis++;
+            }
+=======
             if (wybor == 3 && liczbaPrzeciwnika == 1)
             {
                 Console.WriteLine("Pokazałeś nożyce");
@@ -111,6 +167,14 @@ namespace Kamień__papier__nożyce_v1
                 Console.WriteLine("Remis!");
                 remis++;
             }
+        }
+
+        enum Ja
+        {
+            Kamień,
+            Papier,
+            Nożyce
+>>>>>>> 5e3870ddb78332870b1d6362ad6bcb9624293763
         }
     }
 }
